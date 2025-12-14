@@ -36,7 +36,16 @@ This project analyzes insurance data using Microsoft Power BI to generate meanin
 ---
 
 ## 📸 Dashboard Preview
+
+### Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Claims Analysis
+![Claims Analysis](screenshots/claims_analysis.png)
+
+### Customer Insights
+![Customer Insights](screenshots/customer_insights.png)
+
 
 ---
 
@@ -45,3 +54,4 @@ This project analyzes insurance data using Microsoft Power BI to generate meanin
 2. Open it in Power BI Desktop
 3. Refresh the data if required
 4. Explore the interactive visuals
+
